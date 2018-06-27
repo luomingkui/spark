@@ -6,13 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sparkcore_worldcount" />
+        <module name="sparkcore_sql" />
+        <module name="SparkStream_Kafka" />
+        <module name="SparkStream_WorldCount" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="sparkCore" target="1.5" />
+      <module name="sparkcore_accnumlator" target="1.8" />
+      <module name="sparkcore_cdn" target="1.8" />
+      <module name="sparkcore_parction" target="1.8" />
+      <module name="sparkcore_sql" target="1.8" />
       <module name="sparkcore_worldcount" target="1.8" />
       <module name="sparkDemo" target="1.8" />
+      <module name="SparkStream_Kafka" target="1.8" />
+      <module name="SparkStream_WorldCount" target="1.8" />
+      <module name="SparkStreaming" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

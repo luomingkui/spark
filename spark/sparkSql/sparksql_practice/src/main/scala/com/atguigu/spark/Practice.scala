@@ -40,8 +40,7 @@ object Practice {
     import spark.implicits._
 
     // 加载数据到Hive
-    val tbStockRdd = spark.sparkContext.textFile("C:\\Users\\Administrator\\Desktop\\【尚硅谷】大数据技术之Spark\\3.code\\spark\\sparkSql\\doc\\tbStock.txt")
-    val tbStockDS = tbStockRdd.map(_.split(",")).map(attr => tbStock(attr(0), attr(1), attr(2))).toDS
+    val tbStockRdd = spark.sparkContext.textFile("C:\\Users\\Administrator\\Desktop\\【尚硅谷】大数据技术之Spark\\3.code\\spark\\sparkSql\\doc\\tbStock.txt")val tbStockDS = tbStockRdd.map(_.split(",")).map(attr => tbStock(attr(0), attr(1), attr(2))).toDS
     insertHive(spark, "tbStock", tbStockDS.toDF)
 
     val tbStockDetailRdd = spark.sparkContext.textFile("C:\\Users\\Administrator\\Desktop\\【尚硅谷】大数据技术之Spark\\3.code\\spark\\sparkSql\\doc\\tbStockDetail.txt")

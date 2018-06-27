@@ -745,11 +745,11 @@ class PairRDDFunctions[K, V](self: RDD[(K, V)])
    * all the data is loaded into the driver's memory.
    */
   def collectAsMap(): Map[K, V] = self.withScope {
-    val data = self.collect()
-    val map = new mutable.HashMap[K, V]
-    map.sizeHint(data.length)
-    data.foreach { pair => map.put(pair._1, pair._2) }
-    map
+      val data = self.collect()
+      val map = new mutable.HashMap[K, V]
+      map.sizeHint(data.length)
+      data.foreach { pair => map.put(pair._1, pair._2) }
+      map
   }
 
   /**

@@ -1,0 +1,938 @@
+2018-06-16 22:41:34,188  ERROR --- [dispatcher-event-loop-5]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-16 22:46:41,505  ERROR --- [dispatcher-event-loop-3]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-26 23:58:28,399  ERROR --- [dispatcher-event-loop-1]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 08:30:25,028  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:30:35,031  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:30:35,133  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:30:35,239  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:37:55,292  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:37:55,398  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:37:55,503  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:37:55,633  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:38:00,032  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:38:35,181  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:38:45,025  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:38:50,265  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:38:50,375  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:39:15,297  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:39:25,148  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:39:25,275  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:39:40,033  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:40:15,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:40:20,254  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:40:30,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:40:30,132  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:40:40,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:41:00,260  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:41:05,503  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:41:05,630  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:41:05,736  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:41:15,028  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:41:15,133  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:42:15,033  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:42:25,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:43:10,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:43:10,127  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:43:20,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:43:30,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:44:20,028  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:44:25,265  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:44:25,370  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:44:25,475  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:44:30,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:44:30,121  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:44:35,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:44:35,123  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:44:35,229  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:44:40,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:45:05,135  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:45:10,396  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:45:10,501  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:45:20,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:45:35,256  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:45:35,382  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:45:45,150  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:45:55,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:46:10,136  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:46:10,264  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:46:10,369  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:46:10,476  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:46:15,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:46:15,122  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:46:20,355  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:47:05,138  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:47:10,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:47:10,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:47:10,231  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:47:15,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:47:55,130  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:47:55,258  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:48:00,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:48:10,159  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:48:15,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:48:15,123  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:48:40,253  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:48:40,372  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:48:40,490  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:48:40,596  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:49:00,287  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:49:16,393  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:49:21,946  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:49:35,144  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:49:40,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:50:25,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:50:40,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:51:00,246  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:51:00,369  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:51:00,488  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:51:00,592  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:51:15,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:51:20,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:51:30,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:51:30,137  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:51:50,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:52:15,287  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:52:20,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:52:20,122  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:52:25,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:52:25,121  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:52:30,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:52:45,128  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:52:45,248  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:52:50,492  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:52:50,597  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:52:55,024  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:53:00,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:53:25,302  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:53:25,408  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:54:05,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:54:15,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:54:15,122  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:54:15,234  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:54:50,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:55:05,278  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:55:05,383  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:55:35,274  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:55:35,384  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:55:40,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:55:40,121  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:55:45,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:56:20,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:56:30,374  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:56:30,493  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:56:35,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:56:35,127  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:57:00,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:57:10,163  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:57:10,268  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:57:15,053  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:57:25,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:57:55,400  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:57:55,507  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:57:55,612  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:57:55,740  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:58:00,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:58:35,250  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:58:35,377  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:58:35,498  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:58:40,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:58:40,142  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:58:40,248  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:58:45,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:58:45,121  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:58:55,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 08:58:55,127  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 08:59:50,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 08:59:55,256  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:00:20,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:00:30,138  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:00:35,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:00:40,268  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:01:20,136  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:01:20,268  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:01:20,371  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:01:30,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:01:35,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:01:45,136  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:01:45,257  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:01:45,362  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:01:50,606  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:02:15,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:02:15,130  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:02:25,024  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:02:25,136  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:02:40,122  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:02:45,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:02:50,244  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:03:20,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:03:30,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:03:55,142  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:04:45,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:04:55,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:05:00,271  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:05:05,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:06:10,025  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:06:15,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:06:45,032  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:06:45,138  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:07:00,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:07:00,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:07:30,403  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:07:45,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:08:00,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:08:05,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:08:15,131  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:08:15,256  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:08:25,033  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:08:35,385  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:08:35,505  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:08:40,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:09:40,284  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:09:40,408  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:09:45,623  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:09:50,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:09:50,129  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:10:20,270  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:10:25,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:10:25,121  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:10:35,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:10:35,126  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:10:45,130  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:10:45,246  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:10:50,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:10:55,281  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:11:00,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:11:40,147  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:11:50,136  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:11:50,261  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:11:50,367  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:11:55,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:11:55,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:11:55,224  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:12:05,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:12:05,123  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:12:20,124  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:12:25,376  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:12:30,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:12:55,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:13:30,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:13:45,163  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:13:45,272  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:13:45,376  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:14:00,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:14:15,160  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:14:55,410  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:15:00,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:15:05,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:15:35,163  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:15:40,415  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:15:40,522  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:15:55,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:16:20,405  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:16:20,550  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:16:30,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:16:35,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:16:50,309  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:17:00,147  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:17:10,031  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:17:20,133  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:17:20,265  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:17:20,380  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:17:30,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:17:40,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:17:45,248  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:18:00,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:18:05,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:18:05,128  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:18:20,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:18:30,135  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:19:00,266  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:19:00,375  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:19:10,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:19:50,037  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:20:05,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:20:55,385  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:20:55,503  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:21:00,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:21:10,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:21:35,257  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:21:40,024  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:21:55,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:21:55,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:22:00,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:22:20,136  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:22:35,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:22:40,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:22:50,151  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:23:05,120  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:23:20,032  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:23:20,137  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:23:30,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:23:30,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:23:45,143  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:23:55,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:24:05,128  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:24:40,252  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:24:55,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:25:05,029  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:25:15,124  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:25:30,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:25:40,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:25:45,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:25:55,362  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:25:55,487  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:26:20,152  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:26:30,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:27:05,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:27:20,030  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:27:55,272  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:27:55,376  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:28:05,029  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:28:10,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:28:25,145  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:28:25,264  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:28:30,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:28:40,380  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:28:45,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:28:45,117  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:28:50,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:29:50,146  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:30:05,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:30:15,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:30:15,130  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:30:20,041  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:30:20,149  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:30:50,148  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:30:55,371  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:30:55,489  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:31:00,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:31:45,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:31:45,128  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:32:05,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:32:10,257  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:32:25,145  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:33:00,133  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:33:00,243  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:33:15,024  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:33:15,139  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:33:15,244  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:34:00,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:34:00,120  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:34:15,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:34:50,272  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:34:55,523  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:35:00,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:35:15,029  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:35:45,389  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:35:45,516  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:35:50,029  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:35:50,143  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:35:55,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:36:05,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:36:25,270  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:36:40,129  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:36:50,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:37:05,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:37:10,253  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:37:25,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:37:50,138  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:37:55,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:38:00,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:38:05,012  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:38:05,116  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:38:25,032  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:38:40,152  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:39:10,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:39:55,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:40:00,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:40:10,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:40:10,136  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:40:25,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:40:35,134  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:40:35,270  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:40:50,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:41:20,264  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:41:35,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:41:55,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:41:55,135  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:42:25,258  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:42:35,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:42:35,133  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:42:35,238  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:42:40,011  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:42:50,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:43:20,154  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:43:20,260  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:43:20,368  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:43:30,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:43:55,266  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:44:00,514  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:44:00,626  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:44:10,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:44:55,293  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:45:25,280  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:45:25,413  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:45:40,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:46:10,276  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:46:25,251  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:46:25,382  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:46:25,486  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:46:25,603  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:46:30,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:46:45,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:47:00,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:47:15,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:47:15,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:47:30,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:47:50,273  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:47:50,378  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:48:05,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:48:05,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:48:15,135  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:48:25,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:48:45,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:49:00,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:49:20,276  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:49:45,270  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:49:50,508  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:49:55,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:49:55,118  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:50:25,248  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:50:25,390  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:50:30,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:51:15,152  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:51:15,264  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:51:25,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:51:25,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:51:25,230  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:51:55,137  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:52:00,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:52:00,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:52:05,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:52:30,264  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:52:30,391  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:52:30,497  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:52:35,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:52:45,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:53:05,272  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:53:20,130  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:53:20,248  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:54:05,254  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:54:10,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:54:10,118  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:54:15,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:54:40,263  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:54:40,389  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:54:55,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:55:05,149  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:55:10,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:55:35,413  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:55:45,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:55:45,126  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:55:50,012  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:55:50,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:55:55,032  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:56:15,257  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:56:30,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:56:55,036  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:57:10,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:57:45,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:57:55,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:57:55,117  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:58:00,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:58:00,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:58:00,225  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:58:05,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:58:05,126  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:58:10,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:58:10,120  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:58:25,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:59:05,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:59:10,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 09:59:20,138  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 09:59:45,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 09:59:50,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:00:00,157  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:00:20,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:00:35,134  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:00:55,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:00:55,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:01:00,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:01:05,024  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:01:15,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:01:25,147  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:01:45,279  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:01:50,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:02:15,137  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:02:25,031  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:02:30,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:02:30,123  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:03:05,156  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:03:10,011  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:03:35,140  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:03:50,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:04:05,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:04:20,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:04:45,536  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:04:50,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:04:50,131  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:05:05,031  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:05:10,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:05:20,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:05:35,142  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:05:45,152  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:06:00,143  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:06:00,255  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:06:00,360  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:06:10,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:06:15,243  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:06:15,369  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:06:20,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:07:05,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:07:35,153  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:08:10,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:08:15,028  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:08:40,122  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:09:10,138  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:09:10,263  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:09:20,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:10:10,153  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:10:10,269  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:10:10,371  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:10:55,151  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:10:55,262  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:11:05,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:11:10,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:12:10,138  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:12:15,368  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:12:20,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:12:25,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:12:30,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:12:40,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:12:50,157  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:13:05,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:13:10,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:13:25,028  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:13:30,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:13:35,248  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:13:40,473  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:13:45,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:13:45,117  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:13:45,222  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:13:50,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:14:00,025  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:14:15,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:14:20,247  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:14:25,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:14:25,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:14:35,128  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:14:40,375  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:14:45,613  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:14:45,719  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:14:45,829  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:14:50,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:14:50,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:14:55,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:14:55,118  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:15:05,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:15:05,131  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:15:15,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:15:20,245  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:15:40,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:16:15,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:16:30,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:16:30,118  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:16:45,025  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:17:40,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:17:50,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:18:05,035  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:18:40,251  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:18:40,377  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:18:50,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:18:50,132  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:18:50,237  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:18:55,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:19:15,393  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:19:20,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:19:20,121  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:19:20,227  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:19:25,012  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:19:30,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:19:55,245  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:19:55,367  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:19:55,487  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:19:55,592  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:19:55,697  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:21:15,011  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:21:20,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:21:25,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:21:25,118  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:21:30,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:22:40,157  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:23:20,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:23:35,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:23:35,126  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:23:50,012  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:24:45,408  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:24:45,514  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:24:45,618  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:25:00,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:25:25,398  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:25:25,502  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:25:40,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:26:10,386  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:26:10,502  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:26:15,035  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:26:15,139  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:26:40,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:26:45,242  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:26:45,360  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:27:00,030  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:27:15,143  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:27:20,379  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:27:25,029  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:27:30,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:27:40,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:28:00,263  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:28:00,385  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:28:05,619  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:28:25,143  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:28:40,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:29:05,252  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:29:10,482  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:29:15,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:30:00,138  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:30:20,027  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:30:25,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:30:50,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:30:55,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:31:05,165  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:31:05,271  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:31:05,375  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:31:10,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:32:20,149  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:32:45,161  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:32:45,266  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:32:50,012  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:32:55,012  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:33:35,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:33:40,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:33:45,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:33:45,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:34:00,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:34:15,494  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:34:15,604  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:34:30,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:35:10,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:35:15,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:35:25,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:35:30,239  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:35:30,363  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:35:50,122  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:35:50,247  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:36:00,026  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:36:00,131  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:36:25,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:36:30,012  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:36:35,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:36:50,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:37:10,142  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:37:20,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:37:25,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:38:05,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:38:30,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:38:40,368  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:38:40,485  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:38:40,589  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:38:45,024  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:38:55,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:39:45,147  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:40:00,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:40:00,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:40:05,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:40:15,372  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:40:20,029  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:40:20,134  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:40:25,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:41:05,265  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:41:05,387  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:41:15,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:41:25,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:42:10,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:42:15,242  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:42:20,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:42:20,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:42:25,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:42:35,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:42:40,254  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:43:10,391  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:43:10,497  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:43:45,135  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:43:45,257  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:43:45,362  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:43:55,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:43:55,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:44:00,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:44:45,257  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:44:45,391  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:45:10,150  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:45:10,261  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:45:25,011  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:45:35,135  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:45:50,272  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:45:50,377  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:45:50,482  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:46:00,012  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:46:25,279  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:46:25,385  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:46:35,148  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:46:50,011  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:47:05,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:47:15,357  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:47:15,462  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:47:15,579  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:47:15,682  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:47:20,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:47:25,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:48:05,258  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:48:05,367  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:48:15,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:48:15,119  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:49:00,142  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:49:10,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:49:15,030  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:49:40,393  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:49:55,016  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:49:55,120  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:50:25,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:50:55,246  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:51:15,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:51:20,022  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:51:30,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:51:35,261  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:51:55,118  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:51:55,237  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:52:25,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:52:40,126  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:52:45,017  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:53:45,249  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:54:05,020  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:54:10,256  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:54:20,031  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:54:20,141  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:55:10,133  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:55:15,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:55:15,122  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:55:25,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:55:30,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:56:05,379  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:56:05,495  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:56:10,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:56:20,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:56:35,137  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:56:35,256  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:56:45,131  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:56:45,254  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:56:45,360  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:57:10,128  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:57:15,389  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:57:40,152  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:57:45,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:57:45,125  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:57:45,230  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:58:00,015  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:58:00,126  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:58:05,358  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:58:45,018  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:58:50,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:58:55,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:59:00,233  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 10:59:05,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:59:15,129  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 10:59:25,133  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:59:35,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:59:40,257  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 10:59:50,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 11:00:05,019  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 11:00:10,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 11:00:15,284  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 11:00:25,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 11:00:30,252  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 11:00:35,013  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 11:01:10,032  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 11:01:15,014  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 11:01:25,129  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 11:01:40,128  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 11:01:45,018  ERROR --- [JobGenerator]  org.apache.spark.streaming.kafka.DirectKafkaInputDStream(line:125) : ArrayBuffer(java.nio.channels.ClosedChannelException, org.apache.spark.SparkException: Couldn't find leader offsets for Set([source2,0]))
+2018-06-27 11:01:45,238  ERROR --- [JobScheduler]  org.apache.spark.streaming.scheduler.JobScheduler(line:91) : Error generating jobs for time 1530068505000 ms
+org.apache.spark.SparkException: ArrayBuffer(java.nio.channels.ClosedChannelException, org.apache.spark.SparkException: Couldn't find leader offsets for Set([source2,0]))
+	at org.apache.spark.streaming.kafka.DirectKafkaInputDStream.latestLeaderOffsets(DirectKafkaInputDStream.scala:123)
+	at org.apache.spark.streaming.kafka.DirectKafkaInputDStream.compute(DirectKafkaInputDStream.scala:145)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream.createRDDWithLocalProperties(DStream.scala:415)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:335)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:333)
+	at scala.Option.orElse(Option.scala:289)
+	at org.apache.spark.streaming.dstream.DStream.getOrCompute(DStream.scala:330)
+	at org.apache.spark.streaming.dstream.TransformedDStream$$anonfun$6.apply(TransformedDStream.scala:42)
+	at org.apache.spark.streaming.dstream.TransformedDStream$$anonfun$6.apply(TransformedDStream.scala:42)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234)
+	at scala.collection.immutable.List.map(List.scala:285)
+	at org.apache.spark.streaming.dstream.TransformedDStream.compute(TransformedDStream.scala:42)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream.createRDDWithLocalProperties(DStream.scala:415)
+	at org.apache.spark.streaming.dstream.TransformedDStream.createRDDWithLocalProperties(TransformedDStream.scala:65)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:335)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:333)
+	at scala.Option.orElse(Option.scala:289)
+	at org.apache.spark.streaming.dstream.DStream.getOrCompute(DStream.scala:330)
+	at org.apache.spark.streaming.dstream.MappedDStream.compute(MappedDStream.scala:36)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream.createRDDWithLocalProperties(DStream.scala:415)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:335)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:333)
+	at scala.Option.orElse(Option.scala:289)
+	at org.apache.spark.streaming.dstream.DStream.getOrCompute(DStream.scala:330)
+	at org.apache.spark.streaming.dstream.ForEachDStream.generateJob(ForEachDStream.scala:48)
+	at org.apache.spark.streaming.DStreamGraph$$anonfun$1.apply(DStreamGraph.scala:117)
+	at org.apache.spark.streaming.DStreamGraph$$anonfun$1.apply(DStreamGraph.scala:116)
+	at scala.collection.TraversableLike$$anonfun$flatMap$1.apply(TraversableLike.scala:241)
+	at scala.collection.TraversableLike$$anonfun$flatMap$1.apply(TraversableLike.scala:241)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at scala.collection.TraversableLike$class.flatMap(TraversableLike.scala:241)
+	at scala.collection.AbstractTraversable.flatMap(Traversable.scala:104)
+	at org.apache.spark.streaming.DStreamGraph.generateJobs(DStreamGraph.scala:116)
+	at org.apache.spark.streaming.scheduler.JobGenerator$$anonfun$3.apply(JobGenerator.scala:249)
+	at org.apache.spark.streaming.scheduler.JobGenerator$$anonfun$3.apply(JobGenerator.scala:247)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.apache.spark.streaming.scheduler.JobGenerator.generateJobs(JobGenerator.scala:247)
+	at org.apache.spark.streaming.scheduler.JobGenerator.org$apache$spark$streaming$scheduler$JobGenerator$$processEvent(JobGenerator.scala:183)
+	at org.apache.spark.streaming.scheduler.JobGenerator$$anon$1.onReceive(JobGenerator.scala:89)
+	at org.apache.spark.streaming.scheduler.JobGenerator$$anon$1.onReceive(JobGenerator.scala:88)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+2018-06-27 20:36:05,764  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 20:37:23,627  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:37:23,792  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:37:23,897  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:37:24,011  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 20:37:24,257  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:37:24,363  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:37:24,684  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:37:24,822  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:37:24,956  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 20:37:25,060  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:37:25,163  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:37:25,325  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 20:37:35,021  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 20:37:35,132  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:37:35,236  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:37:40,033  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:38:00,290  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:38:00,396  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:38:05,631  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 20:38:05,736  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:38:05,860  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 20:38:10,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:38:15,023  ERROR --- [streaming-job-executor-0-SendThread(hadoop102.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop102.shared/10.211.55.8:2181
+2018-06-27 20:38:15,128  ERROR --- [streaming-job-executor-0-SendThread(hadoop103.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop103.shared/10.211.55.9:2181
+2018-06-27 20:38:15,233  ERROR --- [streaming-job-executor-0-SendThread(hadoop104.shared:2181)]  org.apache.zookeeper.ClientCnxnSocketNIO(line:278) : Unable to open socket to hadoop104.shared/10.211.55.10:2181
+2018-06-27 21:02:29,548  ERROR --- [dispatcher-event-loop-0]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:03:56,584  ERROR --- [dispatcher-event-loop-5]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:05:47,356  ERROR --- [dispatcher-event-loop-2]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:06:10,671  ERROR --- [dispatcher-event-loop-6]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:07:54,646  ERROR --- [dispatcher-event-loop-1]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:09:33,065  ERROR --- [dispatcher-event-loop-0]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:16:00,007  ERROR --- [JobScheduler]  org.apache.spark.streaming.scheduler.JobScheduler(line:91) : Error generating jobs for time 1530105360000 ms
+java.io.IOException: Class not found
+	at org.apache.xbean.asm5.ClassReader.a(Unknown Source)
+	at org.apache.xbean.asm5.ClassReader.<init>(Unknown Source)
+	at org.apache.spark.util.ClosureCleaner$.getClassReader(ClosureCleaner.scala:42)
+	at org.apache.spark.util.ClosureCleaner$.getInnerClosureClasses(ClosureCleaner.scala:83)
+	at org.apache.spark.util.ClosureCleaner$.org$apache$spark$util$ClosureCleaner$$clean(ClosureCleaner.scala:173)
+	at org.apache.spark.util.ClosureCleaner$.clean(ClosureCleaner.scala:108)
+	at org.apache.spark.SparkContext.clean(SparkContext.scala:2101)
+	at org.apache.spark.rdd.RDD$$anonfun$flatMap$1.apply(RDD.scala:379)
+	at org.apache.spark.rdd.RDD$$anonfun$flatMap$1.apply(RDD.scala:378)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:362)
+	at org.apache.spark.rdd.RDD.flatMap(RDD.scala:378)
+	at org.apache.spark.streaming.dstream.FlatMappedDStream$$anonfun$compute$1.apply(FlatMappedDStream.scala:36)
+	at org.apache.spark.streaming.dstream.FlatMappedDStream$$anonfun$compute$1.apply(FlatMappedDStream.scala:36)
+	at scala.Option.map(Option.scala:146)
+	at org.apache.spark.streaming.dstream.FlatMappedDStream.compute(FlatMappedDStream.scala:36)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream.createRDDWithLocalProperties(DStream.scala:415)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:335)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:333)
+	at scala.Option.orElse(Option.scala:289)
+	at org.apache.spark.streaming.dstream.DStream.getOrCompute(DStream.scala:330)
+	at org.apache.spark.streaming.dstream.MappedDStream.compute(MappedDStream.scala:36)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream.createRDDWithLocalProperties(DStream.scala:415)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:335)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:333)
+	at scala.Option.orElse(Option.scala:289)
+	at org.apache.spark.streaming.dstream.DStream.getOrCompute(DStream.scala:330)
+	at org.apache.spark.streaming.dstream.ShuffledDStream.compute(ShuffledDStream.scala:41)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1$$anonfun$apply$7.apply(DStream.scala:341)
+	at scala.util.DynamicVariable.withValue(DynamicVariable.scala:58)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1$$anonfun$1.apply(DStream.scala:340)
+	at org.apache.spark.streaming.dstream.DStream.createRDDWithLocalProperties(DStream.scala:415)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:335)
+	at org.apache.spark.streaming.dstream.DStream$$anonfun$getOrCompute$1.apply(DStream.scala:333)
+	at scala.Option.orElse(Option.scala:289)
+	at org.apache.spark.streaming.dstream.DStream.getOrCompute(DStream.scala:330)
+	at org.apache.spark.streaming.dstream.ForEachDStream.generateJob(ForEachDStream.scala:48)
+	at org.apache.spark.streaming.DStreamGraph$$anonfun$1.apply(DStreamGraph.scala:117)
+	at org.apache.spark.streaming.DStreamGraph$$anonfun$1.apply(DStreamGraph.scala:116)
+	at scala.collection.TraversableLike$$anonfun$flatMap$1.apply(TraversableLike.scala:241)
+	at scala.collection.TraversableLike$$anonfun$flatMap$1.apply(TraversableLike.scala:241)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at scala.collection.TraversableLike$class.flatMap(TraversableLike.scala:241)
+	at scala.collection.AbstractTraversable.flatMap(Traversable.scala:104)
+	at org.apache.spark.streaming.DStreamGraph.generateJobs(DStreamGraph.scala:116)
+	at org.apache.spark.streaming.scheduler.JobGenerator$$anonfun$3.apply(JobGenerator.scala:249)
+	at org.apache.spark.streaming.scheduler.JobGenerator$$anonfun$3.apply(JobGenerator.scala:247)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.apache.spark.streaming.scheduler.JobGenerator.generateJobs(JobGenerator.scala:247)
+	at org.apache.spark.streaming.scheduler.JobGenerator.org$apache$spark$streaming$scheduler$JobGenerator$$processEvent(JobGenerator.scala:183)
+	at org.apache.spark.streaming.scheduler.JobGenerator$$anon$1.onReceive(JobGenerator.scala:89)
+	at org.apache.spark.streaming.scheduler.JobGenerator$$anon$1.onReceive(JobGenerator.scala:88)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+2018-06-27 21:16:00,028  ERROR --- [dispatcher-event-loop-4]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:17:44,932  ERROR --- [dispatcher-event-loop-5]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:18:10,445  ERROR --- [dispatcher-event-loop-0]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:20:41,149  ERROR --- [dispatcher-event-loop-5]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:21:42,512  ERROR --- [dispatcher-event-loop-5]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:23:17,929  ERROR --- [dispatcher-event-loop-4]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-27 21:29:21,021  ERROR --- [dispatcher-event-loop-4]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver
+2018-06-28 00:27:39,130  ERROR --- [dispatcher-event-loop-3]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Restarting receiver with delay 2000ms: Socket data stream had no more data
+2018-06-28 00:27:58,813  ERROR --- [dispatcher-event-loop-1]  org.apache.spark.streaming.scheduler.ReceiverTracker(line:70) : Deregistered receiver for stream 0: Stopped by driver

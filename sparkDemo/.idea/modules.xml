@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SparkStreaming/SparkStream_Kafka/SparkStream_Kafka.iml" filepath="$PROJECT_DIR$/SparkStreaming/SparkStream_Kafka/SparkStream_Kafka.iml" group="SparkStreaming and modules" />
+      <module fileurl="file://$PROJECT_DIR$/SparkStreaming/SparkStream_WorldCount/SparkStream_WorldCount.iml" filepath="$PROJECT_DIR$/SparkStreaming/SparkStream_WorldCount/SparkStream_WorldCount.iml" group="SparkStreaming and modules" />
+      <module fileurl="file://$PROJECT_DIR$/SparkStreaming/SparkStreaming.iml" filepath="$PROJECT_DIR$/SparkStreaming/SparkStreaming.iml" group="SparkStreaming and modules" />
       <module fileurl="file://$PROJECT_DIR$/sparkDemo.iml" filepath="$PROJECT_DIR$/sparkDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_worldcount/sparkcore_worldcount.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_worldcount/sparkcore_worldcount.iml" group="sparkCore and modules" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_accnumlator/sparkcore_accnumlator.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_accnumlator/sparkcore_accnumlator.iml" group="sparkCore and modules/sparkcore_worldcount and modules/sparkcore_parction and modules/sparkcore_cdn and modules/sparkcore_accnumlator and modules" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_accnumlator/sparkcore_accumulator.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_accnumlator/sparkcore_accumulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_cdn/sparkcore_cdn.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_cdn/sparkcore_cdn.iml" group="sparkCore and modules/sparkcore_worldcount and modules/sparkcore_parction and modules/sparkcore_cdn and modules" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_praction/sparkcore_parction.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_praction/sparkcore_parction.iml" group="sparkCore and modules/sparkcore_worldcount and modules/sparkcore_parction and modules" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_sql/sparkcore_sql.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_sql/sparkcore_sql.iml" group="sparkCore and modules/sparkcore_worldcount and modules/sparkcore_parction and modules/sparkcore_cdn and modules/sparkcore_accnumlator and modules" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_worldcount/sparkcore_worldcount.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_worldcount/sparkcore_worldcount.iml" group="sparkCore and modules/sparkcore_worldcount and modules" />
     </modules>
   </component>
 </project>

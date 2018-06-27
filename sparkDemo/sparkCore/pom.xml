@@ -16,7 +16,11 @@
 
     <modules>
         <module>sparkcore_worldcount</module>
+        <module>sparkcore_praction</module>
     </modules>
+
+
+
 
 
 </project>

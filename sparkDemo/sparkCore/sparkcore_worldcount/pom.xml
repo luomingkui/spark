@@ -11,6 +11,7 @@
 
     <groupId>com.luomk</groupId>
     <artifactId>sparkcore_worldcount</artifactId>
+    <packaging>pom</packaging>
 
     <build>
         <plugins>
@@ -42,7 +43,8 @@
         </plugins>
 
     </build>
-
-
+    <modules>
+        <module>../sparkcore_praction</module>
+    </modules>
 
 </project>
